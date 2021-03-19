@@ -1,4 +1,4 @@
-from LLforHT import LinkedList
+from Basic.LLforHT import LinkedList
 
 class HashTable:
     """Hash Table class with Chaining"""
