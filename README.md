@@ -1,4 +1,21 @@
-# PyDataStructure
+## JS Data Structure
+
+Data structure implementation.
+JavaScript
+
+stack
+queue
+linked list
+set
+tree
+hash table
+binary search tree
+B tree
+heap
+graph
+trie
+
+## Py Data Structure
 
 Data structure implementation.
 Python 3.7
